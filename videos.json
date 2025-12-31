@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "title": "Test Working Video",
+    "creator": "Admin",
+    "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "type": "FREE"
+  }
+]
